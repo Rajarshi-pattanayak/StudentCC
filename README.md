@@ -10,7 +10,7 @@
 
 ### 📊 **Advanced GPA Calculator**
 - Real-time GPA calculation with VIT's official grading system
-- Support for all VIT grade scales (A+, A, B+, B, C+, C, D, F)
+- Support for all VIT grade scales (S, A+, A, B+, B, C+, C, D, F)
 - Credit tracking and semester-wise GPA calculation
 - CGPA estimator with target GPA planning
 
